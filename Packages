@@ -1,19 +1,3 @@
-Package: com.binglan.kongzhiBG
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: binglan
-Installed-Size: 432
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: debs/com.binglan.kongzhiBG_1.0.1_iphoneos-arm64.deb
-Size: 40612
-MD5sum: 40a09d50641767036780bf619a1d369e
-SHA1: 2fbacb32501fc7be88bb1ab28d225ed5f4c9c45a
-SHA256: 3a4a9ff105b1805dacfc24e2e974541a55c7bd58aea9d522e25031fab32e6dc4
-Section: 冰蓝的插件
-Description: 为控制中心增加视频背景，授权用户使用，25RMB，需要搭配Legacy arm64e Support使用，否则会安全模式
-Author: binglan
-Name: 控制中心视频
-
 Package: com.nx.stheno
 Version: 77.1.4.7
 Architecture: iphoneos-arm64
@@ -94,22 +78,4 @@ Section: 余忆的插件
 Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
 Author: yuyi
 Name: Screenshot
-
-Package: com.zqbb.iconshadow
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: zqbb
-Installed-Size: 96
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.zqbb.iconshadow_1.1_iphoneos-arm64e.deb
-Size: 10340
-MD5sum: cd3363ec5cb29f1ccd7fae4f44f520fd
-SHA1: b74f34d7b513fe2e8cf1aa044609618eff9bf0c3
-SHA256: a2e7a151186d3893b741aceec55bd38dc13fa4d3f096a784bc7585f03b754b83
-Section: Tweaks
-Description: 给图标添加一层阴影图片!
-Author: zqbb
-Name: Hello Shadow
-Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.iconshadow
 
