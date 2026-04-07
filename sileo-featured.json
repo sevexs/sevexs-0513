@@ -1,13 +1,13 @@
 {
-    "class": "FeaturedBannersView",
-    "itemSize": "{390, 190}",
-    "itemCornerRadius": 10,
-    "banners": [
-        {
-            "url": "https://raw.githubusercontent.com/Diandianyyy/diandian520/main/love.PNG",
-            "title": "请挂VPN联系+QQ1578719930",
-            "package": "com.nx.stheno",
-            "hideShadow": false
-        }
-    ]
+  "class": "FeaturedBannersView",
+  "itemSize": "{390, 190}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://raw.githubusercontent.com/sevexs/sevexs-0513/main/love.PNG",
+      "title": "请挂VPN联系+QQ1622589949",
+      "package": "com.nx.stheno",
+      "hideShadow": false
+    }
+  ]
 }
