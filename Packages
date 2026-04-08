@@ -1,3 +1,21 @@
+Package: com.lxcloud.WCEhance
+Version: 2.0-5
+Architecture: iphoneos-arm64e
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.chashu.WCEhance_2.0-5_iphoneos-arm64e.deb
+Size: 3691756
+MD5sum: 26cd0c38fb9c19e3707196fbd159bcc8
+SHA1: 02d5e31b406c5e0fce88677877c3b78082063106
+SHA256: 505f726e7a7b5ad867ca7cb8a6bed31c06f3719c0a31efef4dc8861fad783080
+Section: Tweaks
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami&Lxcloud
+Icon: https://xcimg.szwego.com/img/f71fe4b2/9e32c300-c084-4c77-bbb5-63f1c295d122.png
+Name: 微信增强
+Sileodepiction: https://qaq.040207.xyz/sileo.json
+
 Package: com.nx.stheno
 Version: 77.1.4.7
 Architecture: iphoneos-arm64
