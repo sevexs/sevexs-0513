@@ -1,3 +1,19 @@
+Package: com.hang.zaixian
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.hang.zaixian_1.0-1+debug_iphoneos-arm64.deb
+Size: 24636
+MD5sum: f12d4991ad5f58fa483f43c47732b2d8
+SHA1: 4fd29a787723898cbdd604b8edb08f09571232ec
+SHA256: 6594b6ca2495c179b3bf0c4d871712cd784a9a6229a0b56c0eb7fe1315c28458
+Section: QQ
+Description: 自用!
+Author: 航
+Name: QQ在线模拟
+
 Package: com.lxcloud.WCEhance
 Version: 2.0-5
 Architecture: iphoneos-arm64e
